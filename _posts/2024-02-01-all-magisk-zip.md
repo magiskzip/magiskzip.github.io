@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Exploring the World of Magisk Modules A Comprehensive Guide
+title: All Magisk Flashable zip
 date: 2024-05-01
 lang: eng
 tagline: Elevate Your Android Experience with These Magisk Modules
