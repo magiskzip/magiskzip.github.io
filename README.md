@@ -1,2 +1,1 @@
-# willowthewsp.github.io
-nothing
+# https://magiskzip.github.io/
