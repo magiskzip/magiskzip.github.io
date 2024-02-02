@@ -22,7 +22,7 @@ Magisk, the capable systemless interface for Android, has produced a dynamic bio
 
 ## [Magisk Latest](https://github.com/magiskzip/magiskzip.github.io/raw/main/_files/Magisk-v26.4.apk)
 
-## Overview
+
 
 ## Description:
 Magisk may be a flexible systemless interface for Android gadgets. It permits clients to root their gadgets, alter framework settings, and introduce extra highlights without changing the framework segment.
@@ -42,7 +42,7 @@ Magisk may be a flexible systemless interface for Android gadgets. It permits cl
 
 ## [Magisk Delta](https://github.com/magiskzip/magiskzip.github.io/raw/main/_files/app-debug-lite.apk)
 
-## Overview
+
 
 ## Description:
 Magisk Delta may be a fork of the first Magisk extend, centering on conveying overhauls and advancements to the Magisk system. 
@@ -60,7 +60,7 @@ Magisk Delta may be a fork of the first Magisk extend, centering on conveying ov
 
 ## [Foxmm](https://github.com/magiskzip/magiskzip.github.io/raw/main/_files/app-default-arm64-v8a-release.apk)
 
-## Overview
+
 
 ## Description:
 Foxmm could be a Magisk module outlined to improve gaming execution on Android gadgets. It gives optimizations and changes to progress outline rates, decrease input slack, and improve in general gaming involvement. 
@@ -76,7 +76,7 @@ Foxmm could be a Magisk module outlined to improve gaming execution on Android g
 
 ## [Kernel Su](https://github.com/magiskzip/magiskzip.github.io/raw/main/_files/android12-5.10.101_2022-05-boot-gz.img.gz)
 
-## Overview
+
 
 # Description:
 Part Su could be a Magisk module that gives root get to by fixing the bit specifically. It offers an elective strategy of picking up root benefits on Android gadgets. 
