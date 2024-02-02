@@ -218,24 +218,4 @@ tagline: Bio
     
  
  
-       {% assign posts = site.posts %}
-   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   
-   <div class="container py-4">
-        {%- for post in posts limit:15 -%}
 
-   
-        <div class="h-100 p-5 bg-light border rounded-3">
-          <h2> {{ post.title | escape }}</h2>
-            <p class="article__excerpt">
-                {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}
-            </p>
-            <a href="{{ post.url | relative_url }}"><button class="btn btn-outline-secondary" type="button">more</button></a>
-        </div>
-        {%- endfor -%}
-    </div>
-    
-   </div>   
-</div>
-
-</main>
