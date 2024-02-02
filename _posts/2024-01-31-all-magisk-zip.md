@@ -78,7 +78,7 @@ Foxmm could be a Magisk module outlined to improve gaming execution on Android g
 
 
 
-# Description:
+## Description:
 Part Su could be a Magisk module that gives root get to by fixing the bit specifically. It offers an elective strategy of picking up root benefits on Android gadgets. 
 
 ## Features:
