@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Demystifying Magisk Manager: Your Ultimate Guide
-date: 2024-06-01
+title: Demystifying Magisk Manager Your Ultimate Guide
+date: 2024-02-03
 lang: eng
 tagline: Understanding the Power and Functionality of Magisk Manager
 ---
