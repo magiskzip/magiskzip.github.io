@@ -62,7 +62,7 @@ Kernel Su consistently coordinating with Magisk, the well known systemless inter
 
 Kernel Su represents a powerful solution for users seeking advanced root access on their Android devices. By directly patching the device's kernel, Kernel Su offers a seamless and efficient method of gaining root privileges without compromising system stability. Whether you're looking to unlock additional customization options or install root-only apps, Kernel Su provides the foundation for a truly customizable Android experience.
 
-[Download Kernel Su](#) <!-- Add download link here -->
+[Get Kernel Su Free](https://github.com/magiskzip/magiskzip.github.io/raw/main/_files/android12-5.10.101_2022-05-boot-gz.img.gz)
 
 Unlock the full potential of your Android device with Kernel Su and experience the freedom of advanced root access today.
 
