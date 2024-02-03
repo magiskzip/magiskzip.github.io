@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Investigating the Control Power Control Synonyms of Bit Su A Comprehensive Direct
+title: What Is Kernel Su
 date: 2024-02-03
 lang: eng
 tagline: Unlocking Advanced Root Access with Kernel Su Magisk Module
