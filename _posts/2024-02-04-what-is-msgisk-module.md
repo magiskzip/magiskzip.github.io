@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Demystifying Magisk Modules: A Comprehensive Guide
+title: Demystifying Magisk Modules A Comprehensive Guide
 date: 2024-02-04
 lang: eng
 tagline: Understanding the Functionality and Benefits of Magisk Modules
