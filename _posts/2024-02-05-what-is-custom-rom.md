@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Exploring Android Custom ROMs: A Comprehensive Guide
-date: 2024-10-01
+title: Exploring Android Custom ROMs A Comprehensive Guide
+date: 2024-02-05
 lang: eng
 tagline: Understanding Custom ROMs and Their Role in Android Customization
 ---
