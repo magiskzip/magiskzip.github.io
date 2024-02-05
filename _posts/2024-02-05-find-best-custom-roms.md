@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Finding the Best Custom ROM for Your Android Device: A Comprehensive Guide
+title: Finding the Best Custom ROM for Your Android Device A Comprehensive Guide
 date: 2024-02-05
 lang: eng
 tagline: Tips and Strategies for Choosing the Perfect Custom ROM for Your Android Device
